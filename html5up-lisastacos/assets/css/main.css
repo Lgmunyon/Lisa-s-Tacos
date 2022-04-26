@@ -1306,7 +1306,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/atlantaskyline.jpg"), url("images/bg.jpg");
+		background-image: url("images/atlantaskyline.jpg");
 		background-repeat: no-repeat;
 		background-size: cover;
 		/* max-height: 100vh; */
